@@ -14,7 +14,5 @@ export const correr2 = () =>{
 }
 
 const git = ()=>{
-    if git1 = 0{
-        console
-    }
+    console.log("esto es mu complicao");
 }
