@@ -6,6 +6,11 @@ export const comer = (lechuga) =>{
 }
 
 
+export const saltar = (juan) =>{
+    alert("saltito");
+}
+
+
 let i = "oujadlñjasdl"
 export const correr2 = () =>{
     return "hola";
