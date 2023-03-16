@@ -4,8 +4,8 @@ export const saludar = (nombre) =>{
 export const comer = (lechuga) =>{
     console.log(lechuga);
 }
-export const correr = (tomate) =>{
-    console.log(tomate);
+export const corriendo= (fifi) =>{
+    console.log(fifi);
 }
 
 let i = "oujadlñjasdl"
@@ -15,4 +15,7 @@ export const correr2 = () =>{
 
 const git = ()=>{
     console.log("esto es mu complicao");
+}
+for(let i=0; i>10; i++){
+    console.log("kj")
 }
