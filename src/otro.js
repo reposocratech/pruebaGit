@@ -7,3 +7,8 @@ export const comer = (lechuga) =>{
 export const correr = (tomate) =>{
     console.log(tomate);
 }
+
+let i = "oujadlñjasdl"
+export const correr2 = () =>{
+    return "hola";
+}
