@@ -12,3 +12,7 @@ let i = "oujadlñjasdl"
 export const correr2 = () =>{
     return "hola";
 }
+
+for(let i=0; i>10; i++){
+    console.log("kj")
+}
