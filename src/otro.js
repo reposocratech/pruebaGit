@@ -4,9 +4,7 @@ export const saludar = (nombre) =>{
 export const comer = (lechuga) =>{
     console.log(lechuga);
 }
-export const corriendo= (fifi) =>{
-    console.log(fifi);
-}
+
 
 let i = "oujadlñjasdl"
 export const correr2 = () =>{
