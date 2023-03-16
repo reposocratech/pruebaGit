@@ -12,3 +12,9 @@ let i = "oujadlñjasdl"
 export const correr2 = () =>{
     return "hola";
 }
+
+const git = ()=>{
+    if git1 = 0{
+        console
+    }
+}
