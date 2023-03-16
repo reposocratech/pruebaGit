@@ -5,6 +5,9 @@ export const comer = (lechuga) =>{
     console.log(lechuga);
 }
 
+const dormir = () =>{
+    console.log("zzzzzzzzzz");
+}
 
 let i = "oujadlñjasdl"
 export const correr2 = () =>{
