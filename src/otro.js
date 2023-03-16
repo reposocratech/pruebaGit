@@ -1,8 +1,8 @@
 export const saludar = (nombre) =>{
     console.log(nombre);
 }
-export const comer = (lechuga) =>{
-    console.log(lechuga);
+export const comer = (filete) =>{
+    console.log(filete);
 }
 
 const dormir = () =>{
